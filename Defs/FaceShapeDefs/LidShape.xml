@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <FacialAnimation.LidShapeDef>
+  	<defName>Anneli_normal</defName>
+  </FacialAnimation.LidShapeDef>
+
+  <FacialAnimation.LidShapeDef>
+	  <defName>Anneli_close</defName>
+    <disableEyeball>true</disableEyeball>
+  </FacialAnimation.LidShapeDef>
+
+
+</Defs>

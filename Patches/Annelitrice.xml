@@ -38,20 +38,4 @@
 		</operations>
 	</Operation>
 
-<!-- 	<Operation Class="PatchOperationFindMod">
-		<mods><li>Annelitrice 2.0</li></mods>
-		<match Class="PatchOperationReplace">
-			<success>Always</success>
-			<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Annelitrice"]/alienRace/graphicPaths</xpath>        
-			<value>
-				<graphicPaths>
-					<li>
-						<skeleton>Anneli_Corpse/Dessicated_Female</skeleton>
-						<skull>Anneli_Corpse/Dessicated_Head</skull>
-					</li>
-				</graphicPaths>
-			</value>
-		</match>
-	</Operation> -->
-
 </Patch>

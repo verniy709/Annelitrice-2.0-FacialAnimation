@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <FacialAnimation.HeadShapeDef>
+  	<defName>Anneli_normal</defName>
+  </FacialAnimation.HeadShapeDef>
+
+  <FacialAnimation.HeadShapeDef>
+    <defName>Anneli_blush</defName>
+  </FacialAnimation.HeadShapeDef>
+
+</Defs>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <FacialAnimation.MouthShapeDef>
+  	<defName>Anneli_normal</defName>
+  </FacialAnimation.MouthShapeDef>
+
+  <FacialAnimation.MouthShapeDef>
+    <defName>Anneli_open</defName>
+  </FacialAnimation.MouthShapeDef>
+</Defs>

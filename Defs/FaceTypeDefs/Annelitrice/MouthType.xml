@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <FacialAnimation.MouthTypeDef>
+	  <defName>Anneli_MouthNormal</defName>
+	  <texPath>Things/Pawn/Annelitrice/Mouth/Normal</texPath>
+	  <shader>Map/Transparent</shader>
+	  <raceName>Annelitrice</raceName>
+  </FacialAnimation.MouthTypeDef>
+</Defs>

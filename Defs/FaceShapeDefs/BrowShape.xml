@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <FacialAnimation.BrowShapeDef>
+  	<defName>Anneli_normal</defName>
+  </FacialAnimation.BrowShapeDef>
+
+  <FacialAnimation.BrowShapeDef>
+    <defName>Anneli_flat</defName>
+  </FacialAnimation.BrowShapeDef>
+
+  <FacialAnimation.BrowShapeDef>
+    <defName>Anneli_angled</defName>
+  </FacialAnimation.BrowShapeDef>
+
+  <FacialAnimation.BrowShapeDef>
+    <defName>Anneli_s-shaped</defName>
+  </FacialAnimation.BrowShapeDef>
+</Defs>
