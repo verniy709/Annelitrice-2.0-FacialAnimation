@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Facial Animation for Annelitrice</name>
+	<author>Verniy709</author>
+	  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <packageId>Verniy709.FacialAnimationForAnnelitrice</packageId>
+	<description>
+	</description>
+  	<loadAfter>
+		<li>Nals.FacialAnimation</li>
+	</loadAfter>
+</ModMetaData>
