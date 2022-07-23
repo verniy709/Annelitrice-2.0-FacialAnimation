@@ -2,12 +2,16 @@
 
 <Defs>
   <FacialAnimation.LidShapeDef>
-  	<defName>Anneli_normal</defName>
+  	<defName>normal</defName>
   </FacialAnimation.LidShapeDef>
 
   <FacialAnimation.LidShapeDef>
-	  <defName>Anneli_close</defName>
+	  <defName>close</defName>
     <disableEyeball>true</disableEyeball>
+  </FacialAnimation.LidShapeDef>
+
+  <FacialAnimation.LidShapeDef>
+    <defName>half</defName>
   </FacialAnimation.LidShapeDef>
 
 

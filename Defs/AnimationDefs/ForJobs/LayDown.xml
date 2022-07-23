@@ -2,7 +2,7 @@
 
 <Defs>
   <FacialAnimation.FaceAnimationDef>
-    <defName>laydown</defName>
+    <defName>Anneli_laydown</defName>
     <animationFrames>
       <li>
         <duration>1</duration>
@@ -16,12 +16,12 @@
     <targetJobs>
       <li>LayDown</li>
     </targetJobs>
-    <priority>10001</priority>
+    <priority>210000</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 
   <FacialAnimation.FaceAnimationDef>
-    <defName>laydown2</defName>
+    <defName>Anneli_laydown2</defName>
     <animationFrames>
       <li>
         <duration>240</duration>
@@ -33,12 +33,12 @@
     <targetJobs>
       <li>LayDown</li>
     </targetJobs>
-    <priority>10002</priority>
+    <priority>210001</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 
   <FacialAnimation.FaceAnimationDef>
-    <defName>laydown3</defName>
+    <defName>Anneli_laydown3</defName>
     <animationFrames>
       <li>
         <duration>15</duration>
@@ -67,7 +67,7 @@
     <targetJobs>
       <li>LayDown</li>
     </targetJobs>
-    <priority>10003</priority>
+    <priority>210002</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 </Defs>

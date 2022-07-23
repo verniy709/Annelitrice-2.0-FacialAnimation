@@ -2,7 +2,7 @@
 
 <Defs>
   <FacialAnimation.FaceAnimationDef>
-    <defName>Ingest</defName>
+    <defName>Anneli_Ingest</defName>
     <animationFrames>
       <li>
         <duration>4</duration>
@@ -25,7 +25,7 @@
     <targetJobs>
       <li>Ingest</li>
     </targetJobs>
-    <priority>10</priority>
+    <priority>210000</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 </Defs>

@@ -2,18 +2,23 @@
 
 <Defs>
   <FacialAnimation.BrowShapeDef>
-  	<defName>Anneli_normal</defName>
+  	<defName>normal</defName>
   </FacialAnimation.BrowShapeDef>
 
   <FacialAnimation.BrowShapeDef>
-    <defName>Anneli_flat</defName>
+    <defName>flat</defName>
   </FacialAnimation.BrowShapeDef>
 
   <FacialAnimation.BrowShapeDef>
-    <defName>Anneli_angled</defName>
+    <defName>angled</defName>
   </FacialAnimation.BrowShapeDef>
 
   <FacialAnimation.BrowShapeDef>
-    <defName>Anneli_s-shaped</defName>
+    <defName>s-shaped</defName>
+  </FacialAnimation.BrowShapeDef>
+
+  <!-- customized -->
+  <FacialAnimation.BrowShapeDef>
+    <defName>angry</defName>
   </FacialAnimation.BrowShapeDef>
 </Defs>

@@ -2,7 +2,7 @@
 
 <Defs>
   <FacialAnimation.FaceAnimationDef>
-    <defName>RemoveApparel</defName>
+    <defName>Anneli_RemoveApparel</defName>
     <animationFrames>
       <li>
         <duration>10</duration>
@@ -29,14 +29,14 @@
     <targetJobs>
       <li>RemoveApparel</li>
     </targetJobs>
-    <priority>105</priority>
+    <priority>210001</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
     <roopIntervalMin>30 </roopIntervalMin>
     <roopIntervalMax>300</roopIntervalMax>
   </FacialAnimation.FaceAnimationDef>
 
   <FacialAnimation.FaceAnimationDef>
-    <defName>RemoveApparel2</defName>
+    <defName>Anneli_RemoveApparel2</defName>
     <animationFrames>
       <li>
         <duration>1</duration>
@@ -49,12 +49,12 @@
     <targetJobs>
       <li>RemoveApparel</li>
     </targetJobs>
-    <priority>104</priority>
+    <priority>210000</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 
   <FacialAnimation.FaceAnimationDef>
-    <defName>RemoveApparel3</defName>
+    <defName>Anneli_RemoveApparel3</defName>
     <animationFrames>
       <li>
         <duration>120</duration>
@@ -67,7 +67,7 @@
     <targetJobs>
       <li>RemoveApparel</li>
     </targetJobs>
-    <priority>110</priority>
+    <priority>210002</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
     <roopIntervalMin>30 </roopIntervalMin>
     <roopIntervalMax>300</roopIntervalMax>

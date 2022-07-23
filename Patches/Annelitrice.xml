@@ -18,7 +18,10 @@
 							<li><compClass>FacialAnimation.LidControllerComp</compClass></li>
 							<li><compClass>FacialAnimation.BrowControllerComp</compClass></li>
 							<li><compClass>FacialAnimation.MouthControllerComp</compClass></li>
+							<li><compClass>FacialAnimation.SkinControllerComp</compClass></li>
 							<li><compClass>FacialAnimation.FacialAnimationControllerComp</compClass></li>
+							<li><compClass>FacialAnimation.LidOptionControllerComp</compClass></li>
+							<li><compClass>FacialAnimation.EmotionControllerComp</compClass></li>
 						</comps>
 					</value>
 				</nomatch>
@@ -31,7 +34,10 @@
 						<li><compClass>FacialAnimation.LidControllerComp</compClass></li>
 						<li><compClass>FacialAnimation.BrowControllerComp</compClass></li>
 						<li><compClass>FacialAnimation.MouthControllerComp</compClass></li>
+						<li><compClass>FacialAnimation.SkinControllerComp</compClass></li>
 						<li><compClass>FacialAnimation.FacialAnimationControllerComp</compClass></li>
+						<li><compClass>FacialAnimation.LidOptionControllerComp</compClass></li>
+						<li><compClass>FacialAnimation.EmotionControllerComp</compClass></li>
 					</value>
 				</match>
 			</li>

@@ -2,7 +2,7 @@
 
 <Defs>
   <FacialAnimation.FaceAnimationDef>
-    <defName>Strip</defName>
+    <defName>Anneli_Strip</defName>
     <animationFrames>
       <li>
         <duration>10</duration>
@@ -26,14 +26,14 @@
     <targetJobs>
       <li>Strip</li>
     </targetJobs>
-    <priority>105</priority>
+    <priority>210000</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
     <roopIntervalMin>30 </roopIntervalMin>
     <roopIntervalMax>300</roopIntervalMax>
   </FacialAnimation.FaceAnimationDef>
 
   <FacialAnimation.FaceAnimationDef>
-    <defName>Strip2</defName>
+    <defName>Anneli_Strip2</defName>
     <animationFrames>
       <li>
         <duration>1</duration>
@@ -46,7 +46,7 @@
     <targetJobs>
       <li>Strip</li>
     </targetJobs>
-    <priority>106</priority>
+    <priority>210001</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 </Defs>

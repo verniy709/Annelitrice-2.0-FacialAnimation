@@ -2,7 +2,7 @@
 
 <Defs>
   <FacialAnimation.FaceAnimationDef>
-    <defName>Lovin</defName>
+    <defName>Anneli_Lovin</defName>
     <animationFrames>
       <li>
         <duration>8</duration>
@@ -46,33 +46,51 @@
       <li>MLI_Jobs_MassLoveIn</li>
       <li>MLI_Jobs_SingleLoveIn</li>
     </targetJobs>
-    <priority>10400</priority>
+    <priority>210000</priority>
   </FacialAnimation.FaceAnimationDef>
 
   <FacialAnimation.FaceAnimationDef>
-    <defName>Lovin2</defName>
+    <defName>Anneli_Lovin2</defName>
     <animationFrames>
       <li>
         <duration>240</duration>
         <browShapeDef>s-shaped</browShapeDef>
-        <headOffset>(0.0,0,0.01)</headOffset>
-        <browOffset>(0.0,0,-0.00)</browOffset>
-        <lidShapeDef>normal</lidShapeDef>
-        <lidOffset>(0.0,0,-0.001)</lidOffset>
-        <mouthOffset>(0,0,-0.001)</mouthOffset>
-        <eyeballOffset>(0.0,0,0.005)</eyeballOffset>
+        <mouthShapeDef>open</mouthShapeDef>
+        <headShapeDef>blush</headShapeDef>
+        <lidShapeDef>close</lidShapeDef>
+      </li>
+      <li>
+        <duration>240</duration>
+        <browShapeDef>s-shaped</browShapeDef>
+        <eyeballOffset>(0,0,-0.03)</eyeballOffset>
         <mouthShapeDef>normal</mouthShapeDef>
         <headShapeDef>blush</headShapeDef>
+        <lidShapeDef>half</lidShapeDef>
+      </li>
+      <li>
+        <duration>240</duration>
+        <browShapeDef>s-shaped</browShapeDef>
+        <mouthShapeDef>open</mouthShapeDef>
+        <headShapeDef>blush</headShapeDef>
+        <lidShapeDef>close</lidShapeDef>
+      </li>
+      <li>
+        <duration>240</duration>
+        <browShapeDef>flat</browShapeDef>
+        <eyeballOffset>(0,0,0.002)</eyeballOffset>
+        <mouthShapeDef>open</mouthShapeDef>
+        <headShapeDef>blush</headShapeDef>
+        <lidShapeDef>half</lidShapeDef>
       </li>
     </animationFrames>
-    <roopIntervalMin>240</roopIntervalMin>
-    <roopIntervalMax>240</roopIntervalMax>
+    <roopIntervalMin>0</roopIntervalMin>
+    <roopIntervalMax>0</roopIntervalMax>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
     <targetJobs>
       <li>Lovin</li>
       <li>MLI_Jobs_MassLoveIn</li>
       <li>MLI_Jobs_SingleLoveIn</li>
     </targetJobs>
-    <priority>10500</priority>
+    <priority>210001</priority>
   </FacialAnimation.FaceAnimationDef>
 </Defs>

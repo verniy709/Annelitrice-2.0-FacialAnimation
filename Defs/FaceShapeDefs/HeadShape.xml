@@ -2,11 +2,11 @@
 
 <Defs>
   <FacialAnimation.HeadShapeDef>
-  	<defName>Anneli_normal</defName>
+  	<defName>normal</defName>
   </FacialAnimation.HeadShapeDef>
 
   <FacialAnimation.HeadShapeDef>
-    <defName>Anneli_blush</defName>
+    <defName>blush</defName>
   </FacialAnimation.HeadShapeDef>
 
 </Defs>

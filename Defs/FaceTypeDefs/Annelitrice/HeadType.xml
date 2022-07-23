@@ -8,11 +8,4 @@
     <raceName>Annelitrice</raceName>
   </FacialAnimation.HeadTypeDef>
 
-  <FacialAnimation.HeadTypeDef>
-    <defName>Anneli_HeadPointy</defName>
-    <texPath>Things/Pawn/Annelitrice/Heads_Blank/Pointy</texPath>
-    <shader>Map/CutoutSkin</shader>
-    <raceName>Annelitrice</raceName>
-  </FacialAnimation.HeadTypeDef>
-
 </Defs>

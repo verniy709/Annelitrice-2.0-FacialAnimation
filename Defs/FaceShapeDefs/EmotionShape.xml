@@ -2,10 +2,24 @@
 
 <Defs>
   <FacialAnimation.EmotionShapeDef>
-  	<defName>Anneli_normal</defName>
+  	<defName>normal</defName>
   </FacialAnimation.EmotionShapeDef>
 
   <FacialAnimation.EmotionShapeDef>
-    <defName>Anneli_blush</defName>
+    <defName>blush</defName>
   </FacialAnimation.EmotionShapeDef>
+
+  <!-- customized -->
+  <FacialAnimation.EmotionShapeDef>
+    <defName>sick</defName>
+  </FacialAnimation.EmotionShapeDef>
+
+  <FacialAnimation.EmotionShapeDef>
+    <defName>gloomy</defName>
+  </FacialAnimation.EmotionShapeDef>
+
+  <FacialAnimation.EmotionShapeDef>
+    <defName>cheerful</defName>
+  </FacialAnimation.EmotionShapeDef>
+  
 </Defs>

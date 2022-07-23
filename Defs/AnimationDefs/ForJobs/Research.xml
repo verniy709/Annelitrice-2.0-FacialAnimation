@@ -2,7 +2,7 @@
 
 <Defs>
   <FacialAnimation.FaceAnimationDef>
-    <defName>Research</defName>
+    <defName>Anneli_Research</defName>
     <animationFrames>
       <li>
         <duration>10</duration>
@@ -16,12 +16,12 @@
     <targetJobs>
       <li>Research</li>
     </targetJobs>
-    <priority>10001</priority>
+    <priority>210000</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 
   <FacialAnimation.FaceAnimationDef>
-    <defName>Research2</defName>
+    <defName>Anneli_Research2</defName>
     <animationFrames>
       <li>
         <duration>4</duration>
@@ -92,7 +92,7 @@
     <targetJobs>
       <li>Research</li>
     </targetJobs>
-    <priority>10002</priority>
+    <priority>210001</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 </Defs>

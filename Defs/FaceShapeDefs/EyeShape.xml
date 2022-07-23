@@ -2,8 +2,8 @@
 
 <Defs>    
   <FacialAnimation.EyeballShapeDef>
-    <defName>Anneli_normal</defName>
-    <label>Anneli_normal</label>
+    <defName>normal</defName>
+    <label>normal</label>
   </FacialAnimation.EyeballShapeDef>
 
 </Defs>

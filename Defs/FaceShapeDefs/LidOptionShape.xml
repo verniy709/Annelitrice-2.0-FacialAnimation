@@ -2,6 +2,32 @@
 
 <Defs>
   <FacialAnimation.LidOptionShapeDef>
-  	<defName>Anneli_normal</defName>
+  	<defName>normal</defName>
   </FacialAnimation.LidOptionShapeDef>
+
+  <!-- customized -->
+  <FacialAnimation.LidOptionShapeDef>
+    <defName>cryA</defName>
+  </FacialAnimation.LidOptionShapeDef>
+
+  <!-- customized -->
+  <FacialAnimation.LidOptionShapeDef>
+    <defName>cryB</defName>
+  </FacialAnimation.LidOptionShapeDef>
+
+  <!-- customized -->
+  <FacialAnimation.LidOptionShapeDef>
+    <defName>vomit</defName>
+  </FacialAnimation.LidOptionShapeDef>
+
+  <!-- customized -->
+  <FacialAnimation.LidOptionShapeDef>
+    <defName>wound</defName>
+  </FacialAnimation.LidOptionShapeDef>
+
+  <!-- customized -->
+  <FacialAnimation.LidOptionShapeDef>
+    <defName>anger</defName>
+  </FacialAnimation.LidOptionShapeDef>
+
 </Defs>

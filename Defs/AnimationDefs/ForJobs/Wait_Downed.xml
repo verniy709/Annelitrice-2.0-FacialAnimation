@@ -2,14 +2,14 @@
 
 <Defs>
   <FacialAnimation.FaceAnimationDef>
-    <defName>Wait_Downed</defName>
+    <defName>Anneli_Wait_Downed</defName>
     <animationFrames>
       <li>
         <duration>30</duration>
         <browOffset>(0,0,0.015)</browOffset>
         <lidOffset>(0,0,0.01)</lidOffset>
         <headOffset>(0,0,0.01)</headOffset>
-        <browShapeDef>flat</browShapeDef>
+        <browShapeDef>angled</browShapeDef>
         <mouthOffset>(0,0,0.0025)</mouthOffset>
         <mouthShapeDef>open</mouthShapeDef>
       </li>
@@ -18,7 +18,7 @@
         <browOffset>(0,0,0.0075)</browOffset>
         <lidOffset>(0,0,0.005)</lidOffset>
         <headOffset>(0,0,0.005)</headOffset>
-        <browShapeDef>flat</browShapeDef>
+        <browShapeDef>angled</browShapeDef>
         <mouthShapeDef>normal</mouthShapeDef>
       </li>
     </animationFrames>
@@ -27,23 +27,23 @@
     <targetJobs>
       <li>Wait_Downed</li>
     </targetJobs>
-    <priority>10000</priority>
+    <priority>210000</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 
   <FacialAnimation.FaceAnimationDef>
-    <defName>Wait_Downed2</defName>
+    <defName>Anneli_Wait_Downed2</defName>
     <animationFrames>
       <li>
         <duration>3</duration>
         <lidOffset>(0,0,0.005)</lidOffset>
-        <browShapeDef>flat</browShapeDef>
+        <browShapeDef>angled</browShapeDef>
       </li>
     </animationFrames>
     <targetJobs>
       <li>Wait_Downed</li>
     </targetJobs>
-    <priority>10001</priority>
+    <priority>210001</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 </Defs>

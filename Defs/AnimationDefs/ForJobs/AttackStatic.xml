@@ -6,8 +6,8 @@
     <animationFrames>
       <li>
         <duration>1</duration>
-        <browShapeDef>angled</browShapeDef>
-        <mouthShapeDef>open</mouthShapeDef>
+        <browShapeDef>angry</browShapeDef>
+        <mouthShapeDef>down</mouthShapeDef>
         <browOffset>(0,0,-0.00875)</browOffset>
         <lidOffset>(0.0,0,-0.005)</lidOffset>
       </li>
@@ -15,22 +15,23 @@
     <targetJobs>
       <li>AttackStatic</li>
     </targetJobs>
-    <priority>10200</priority>
+    <priority>210000</priority>
   </FacialAnimation.FaceAnimationDef>
 
   <FacialAnimation.FaceAnimationDef>
     <defName>AttackStatic2</defName>
-    <animationFrames>
+    <animationFrames> 
       <li>
-        <duration>1</duration>
-        <browShapeDef>angled</browShapeDef>
-        <mouthShapeDef>normal</mouthShapeDef>
+        <duration>40</duration>
+        <mouthShapeDef>openunhappy</mouthShapeDef>
       </li>
     </animationFrames>
     <targetJobs>
       <li>AttackStatic</li>
     </targetJobs>
-    <priority>10201</priority>
+    <priority>210001</priority>
+    <roopIntervalMin>100</roopIntervalMin>
+    <roopIntervalMax>300</roopIntervalMax>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 </Defs>

@@ -2,7 +2,7 @@
 
 <Defs>
   <FacialAnimation.FaceAnimationDef>
-    <defName>Mine</defName>
+    <defName>Anneli_Mine</defName>
     <animationFrames>
       <li>
         <duration>10</duration>
@@ -21,12 +21,12 @@
         <mouthShapeDef>open</mouthShapeDef>
       </li>
     </animationFrames>
-    <roopIntervalMin>0</roopIntervalMin>
-    <roopIntervalMax>0</roopIntervalMax>
+    <roopIntervalMin>120</roopIntervalMin>
+    <roopIntervalMax>120</roopIntervalMax>
     <targetJobs>
       <li>Mine</li>
     </targetJobs>
-    <priority>10000</priority>
+    <priority>210000</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 </Defs>

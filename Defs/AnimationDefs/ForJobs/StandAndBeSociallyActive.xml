@@ -2,7 +2,7 @@
 
 <Defs>
   <FacialAnimation.FaceAnimationDef>
-    <defName>StandAndBeSociallyActive</defName>
+    <defName>Anneli_StandAndBeSociallyActive</defName>
     <animationFrames>
       <li>
         <duration>3</duration>
@@ -28,7 +28,7 @@
     <targetJobs>
       <li>StandAndBeSociallyActive</li>
     </targetJobs>
-    <priority>10</priority>
+    <priority>200010</priority>
     <applyWhenStandingOnly>true</applyWhenStandingOnly>
   </FacialAnimation.FaceAnimationDef>
 </Defs>
